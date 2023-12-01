@@ -1,0 +1,24 @@
+#cards{
+    padding: 50px 100px 100px;
+}
+
+.nav-bottom{
+    margin-bottom: 20px;
+}
+
+.card-image{
+    border-radius: 8px;
+    height: 100px;
+    width: 100px;
+}
+
+.img-size{
+    height: auto;
+    width: 100%;
+}
+
+.cards-position{
+    position: relative;
+    padding: 20px;
+    
+}
